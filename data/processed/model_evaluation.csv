@@ -1,0 +1,7 @@
+Metric,Value
+Average Response Time,0.069
+Precision@10,0.78
+Recall@10,0.76
+MAP,0.81
+NDCG,0.86
+Coverage,1.0
